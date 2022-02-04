@@ -2,7 +2,7 @@ Python Developer, technology lover.
 
 # Lucas Zurverra (luckyz)
 
-Hi, I'm Lucas. Born in :argentina:Argentina:argentina:
+Hi, I'm Lucas. Born in Argentina.
 
 I'm a Software Engineer focus on Python & Django development (web apps). I love technology.
 
@@ -12,7 +12,7 @@ I'm a Software Engineer focus on Python & Django development (web apps). I love 
 
 ## :octocat: My Github Performance
 
-![github stats](https://github-readme-stats.vercel.app/api?username=luckyz&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=luckyz&show_icons=true&theme=dark)
 
 ## 📫 Get in Touch
 
