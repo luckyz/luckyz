@@ -1,16 +1,21 @@
-### Hi there 👋
+Python Developer, technology lover.
 
-<!--
-**luckyz/luckyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lucas Zurverra (luckyz)
 
-Here are some ideas to get you started:
+Hi, I'm Lucas. Born in :argentina:Argentina:argentina:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer focus on Python & Django development (web apps). I love technology.
+
+- 🔭 I’m currently working on Upwork as freelancer. But, I'm open to proposals and new projects.
+- 🌱 I’m currently learning Kotlin to develop in Android native.
+- 👯 I seek to collaborate in Data Science projects to contribute, interact and learn from the experience of others. 
+
+## :octocat: My Github Performance
+
+![github stats](https://github-readme-stats.vercel.app/api?username=luckyz&show_icons=true)
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/lucas-zurverra/
+- Telegram: https://t.me/lucas_z
+- Personal Site: https://luckyz.github.io/
