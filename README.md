@@ -12,7 +12,7 @@ I'm a Software Engineer focus on Python & Django development (web apps). I love 
 
 ## :octocat: My Github Performance
 
-![github stats](https://github-readme-stats.vercel.app/api?username=luckyz&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=luckyz&show_icons=true&theme=github_dark)
 
 ## 📫 Get in Touch
 
