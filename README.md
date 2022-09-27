@@ -1,4 +1,4 @@
-Python Developer, technology lover.
+Backend Python Developer 🐍, technology lover 💻.
 
 # Lucas Zurverra (luckyz)
 
@@ -8,6 +8,7 @@ I'm a Software Engineer focus on Python & Django development (web apps). I love 
 
 - 🔭 I’m currently working on Upwork as freelancer. But, I'm open to proposals and new projects.
 - 🌱 I’m currently learning Kotlin to develop in Android native.
+- 📚 Learning OpenCV for Computer Vision.
 - 👯 I seek to collaborate in Data Science projects to contribute, interact and learn from the experience of others. 
 
 ## :octocat: My Github Performance
@@ -17,5 +18,5 @@ I'm a Software Engineer focus on Python & Django development (web apps). I love 
 ## 📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/lucas-zurverra/
-- Telegram: https://t.me/lucas_z
 - Personal Site: https://luckyz.github.io/
+- Telegram: https://t.me/lucas_z
