@@ -1,6 +1,6 @@
-Backend Python Developer 🐍, technology lover 💻.
-
 # Lucas Zurverra (luckyz)
+
+### Backend Python Developer 🐍, tech lover 💻
 
 Hi, I'm Lucas. Born in Argentina.
 
@@ -15,7 +15,7 @@ I'm a Software Engineer focus on Python & Django development (web apps). I love 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luckyz&show_icons=true&theme=github_dark)
 
-## 📫 Get in Touch
+## 📫 Get in touch
 
 - LinkedIn: https://www.linkedin.com/in/lucas-zurverra/
 - Personal Site: https://luckyz.github.io/
