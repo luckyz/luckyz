@@ -1,10 +1,10 @@
 # Lucas Zurverra (luckyz)
 
-### Backend Python Developer 🐍, tech lover 💻
+### Backend Python Developer
 
 Hi, I'm Lucas. Born in Argentina.
 
-I'm a Software Engineer focus on Python & Django development (web apps). I love technology.
+I'm a Software Engineer focus on Python & Django development (web apps). I ♥ technology.
 
 - 🔭 I’m currently working on Upwork as freelancer. But, I'm open to proposals and new projects.
 - 🌱 I’m currently learning Kotlin to develop in Android native.
